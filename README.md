@@ -1,5 +1,5 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- ![example workflow](https://github.com/B4B4iT/se-lab/actions/workflows/maven.yml/badge.svg)
+ ![](https://github.com/B4B4iT/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
 
